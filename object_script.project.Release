@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mywidget.o
+./release\gps.o
+./release\gprs.o
+./release\data.o
+./release\login.o
+./release\camera.o
+./release\heart.o
+./release\tgam.o
+./release\qrc_images.o
+./release\moc_mywidget.o
+./release\moc_login.o
+);

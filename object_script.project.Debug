@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\mywidget.o
+./debug\gps.o
+./debug\gprs.o
+./debug\data.o
+./debug\login.o
+./debug\camera.o
+./debug\heart.o
+./debug\tgam.o
+./debug\qrc_images.o
+./debug\moc_mywidget.o
+./debug\moc_login.o
+);
