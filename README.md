@@ -1,0 +1,2 @@
+# GPRS_GPS_Heart_TGAM_Camera
+基于QT的人脸识别，定位导航，脑电心率测算，用GPRS传到服务端的疲劳驾驶检测系统
